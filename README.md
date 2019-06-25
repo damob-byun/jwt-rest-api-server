@@ -57,6 +57,7 @@ FLUSH PRIVILEGES;
 - How to start
 
 ```bash
+mv .envcpy .env
 # install packages
 npm i
 # start
